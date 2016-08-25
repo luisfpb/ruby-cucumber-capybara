@@ -5,6 +5,5 @@ In this example i'm using Ruby as program language, Cucumber for BDD and Capybar
 
 Licensing and legal issues
  --------------------------
-
  For legal and licensing issues, please look the files:
- LICENSE
+ * LICENSE
