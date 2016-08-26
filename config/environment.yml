@@ -1,0 +1,4 @@
+qa:
+  domain: http://www.google.com
+prod:
+  domain: http://www.google.com
